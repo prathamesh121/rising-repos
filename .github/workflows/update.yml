@@ -1,0 +1,43 @@
+name: Update rising repos
+
+on:
+  schedule:
+    - cron: "10 5 * * *"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch today's data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/update.mjs
+
+      - name: Commit as the repo owner
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Commits only count on your contribution graph if the author email
+          # is linked to your account, so use your GitHub noreply address.
+          OWNER="${{ github.repository_owner }}"
+          OWNER_ID=$(gh api "users/$OWNER" --jq .id)
+          git config user.name "$OWNER"
+          git config user.email "${OWNER_ID}+${OWNER}@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "data: $(date -u +%Y-%m-%d)"
+          git push
