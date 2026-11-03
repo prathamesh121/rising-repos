@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-02)
+## Today (2026-11-03)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | 10,691 |
-| 2 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | TypeScript | 5,358 |
-| 3 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript | 5,303 |
-| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | 4,675 |
-| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | 3,472 |
-| 6 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | 3,104 |
-| 7 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ | 2,157 |
-| 8 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | 2,067 |
-| 9 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Go | 2,010 |
-| 10 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript | 1,980 |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | 15,606 |
+| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript | 6,946 |
+| 3 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | 6,235 |
+| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | 5,870 |
+| 5 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | TypeScript | 5,723 |
+| 6 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | 4,307 |
+| 7 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | 3,864 |
+| 8 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ | 2,766 |
+| 9 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python | 2,633 |
+| 10 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript | 2,376 |
 
-[Full report](data/2026/11/2026-11-02.md)
+[Full report](data/2026/11/2026-11-03.md)
