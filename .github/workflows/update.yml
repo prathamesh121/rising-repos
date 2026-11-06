@@ -2,7 +2,11 @@ name: Update rising repos
 
 on:
   schedule:
+    # Three chances a day; each run only goes ahead some of the time (see the
+    # "Decide whether to run" step), so the number of updates varies day to day.
     - cron: "10 5 * * *"
+    - cron: "35 11 * * *"
+    - cron: "20 17 * * *"
   workflow_dispatch: # lets you run it by hand from the Actions tab
 
 permissions:
@@ -16,18 +20,32 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Decide whether to run
+        id: gate
+        # Manual runs always go ahead; scheduled runs go ahead 55% of the time.
+        run: |
+          if [ "${{ github.event_name }}" = workflow_dispatch ] || [ $((RANDOM % 100)) -lt 55 ]; then
+            echo go=true >> "$GITHUB_OUTPUT"
+          else
+            echo "Skipping this slot"
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
 
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.go == 'true'
         with:
           node-version: 22
 
       - name: Fetch today's data
+        if: steps.gate.outputs.go == 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/update.mjs
 
       - name: Commit as the repo owner
+        if: steps.gate.outputs.go == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -39,5 +57,5 @@ jobs:
           git config user.email "${OWNER_ID}+${OWNER}@users.noreply.github.com"
           git add -A
           git diff --cached --quiet && exit 0
-          git commit -m "data: $(date -u +%Y-%m-%d)"
+          git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC"
           git push
