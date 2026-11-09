@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-08)
+## Today (2026-11-09)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | 4,042 |
-| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python | 3,177 |
-| 3 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | 2,693 |
-| 4 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript | 2,339 |
-| 5 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | 2,326 |
-| 6 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 2,276 |
-| 7 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | TypeScript | 2,099 |
-| 8 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 1,807 |
-| 9 | [wquguru/cicada](https://github.com/wquguru/cicada) | Swift | 1,751 |
-| 10 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Rust | 1,313 |
+| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | 5,710 |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 4,771 |
+| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | 4,268 |
+| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | 2,502 |
+| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 2,282 |
+| 6 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 1,925 |
+| 7 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python | 1,898 |
+| 8 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | - | 1,890 |
+| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 1,705 |
+| 10 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | HTML | 1,610 |
 
-[Full report](data/2026/11/2026-11-08.md)
+[Full report](data/2026/11/2026-11-09.md)
