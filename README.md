@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-09)
+## Today (2026-11-10)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | 5,710 |
-| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 4,771 |
-| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | 4,268 |
-| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | 2,502 |
-| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 2,282 |
-| 6 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 1,925 |
-| 7 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python | 1,898 |
-| 8 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | - | 1,890 |
-| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 1,705 |
-| 10 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | HTML | 1,610 |
+| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | - | 8,062 |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 6,261 |
+| 3 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 4,545 |
+| 4 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | 4,415 |
+| 5 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | - | 3,502 |
+| 6 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 2,765 |
+| 7 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | 2,546 |
+| 8 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,352 |
+| 9 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python | 2,039 |
+| 10 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 2,005 |
 
-[Full report](data/2026/11/2026-11-09.md)
+[Full report](data/2026/11/2026-11-10.md)
