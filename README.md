@@ -15,15 +15,15 @@ node scripts/update.mjs
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 7,465 |
-| 2 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 6,107 |
-| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 3,153 |
-| 4 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,578 |
-| 5 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 2,029 |
-| 6 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | Rust | 1,930 |
-| 7 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | Shell | 1,920 |
-| 8 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Go | 1,851 |
-| 9 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | 1,719 |
-| 10 | [livliv-dev/player](https://github.com/livliv-dev/player) | TypeScript | 1,491 |
+| 1 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 7,725 |
+| 2 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 6,179 |
+| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 3,233 |
+| 4 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,583 |
+| 5 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 2,033 |
+| 6 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | Rust | 1,963 |
+| 7 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | Shell | 1,938 |
+| 8 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Go | 1,860 |
+| 9 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | 1,726 |
+| 10 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 1,519 |
 
 [Full report](data/2026/11/2026-11-11.md)
