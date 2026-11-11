@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-10)
+## Today (2026-11-11)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | - | 8,062 |
-| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 6,261 |
-| 3 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 4,545 |
-| 4 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | 4,415 |
-| 5 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | - | 3,502 |
-| 6 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 2,765 |
-| 7 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | 2,546 |
-| 8 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,352 |
-| 9 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Python | 2,039 |
-| 10 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 2,005 |
+| 1 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | 7,465 |
+| 2 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 6,107 |
+| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 3,153 |
+| 4 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,578 |
+| 5 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | 2,029 |
+| 6 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | Rust | 1,930 |
+| 7 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | Shell | 1,920 |
+| 8 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Go | 1,851 |
+| 9 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | 1,719 |
+| 10 | [livliv-dev/player](https://github.com/livliv-dev/player) | TypeScript | 1,491 |
 
-[Full report](data/2026/11/2026-11-10.md)
+[Full report](data/2026/11/2026-11-11.md)
