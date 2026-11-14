@@ -15,15 +15,15 @@ node scripts/update.mjs
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 7,477 |
-| 2 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 4,005 |
-| 3 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,920 |
-| 4 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,001 |
-| 5 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 1,635 |
-| 6 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,477 |
-| 7 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 1,404 |
-| 8 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 1,365 |
-| 9 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,356 |
-| 10 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | 1,139 |
+| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 7,531 |
+| 2 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | 4,054 |
+| 3 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 2,957 |
+| 4 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,043 |
+| 5 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 1,740 |
+| 6 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 1,647 |
+| 7 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,489 |
+| 8 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,407 |
+| 9 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 1,382 |
+| 10 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | 1,160 |
 
 [Full report](data/2026/11/2026-11-14.md)
