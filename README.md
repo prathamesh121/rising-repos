@@ -15,15 +15,15 @@ node scripts/update.mjs
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 7,677 |
-| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 3,104 |
-| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,101 |
-| 4 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 2,094 |
-| 5 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 1,935 |
-| 6 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,560 |
-| 7 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,526 |
-| 8 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 1,458 |
-| 9 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | 1,217 |
-| 10 | [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) | C | 1,069 |
+| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 7,720 |
+| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | 3,165 |
+| 3 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 2,670 |
+| 4 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Visual Basic .NET | 2,336 |
+| 5 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,122 |
+| 6 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 2,046 |
+| 7 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,602 |
+| 8 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,542 |
+| 9 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 1,480 |
+| 10 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | 1,236 |
 
 [Full report](data/2026/11/2026-11-15.md)
