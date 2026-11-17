@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-16)
+## Today (2026-11-17)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | 7,825 |
-| 2 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 3,859 |
-| 3 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 2,383 |
-| 4 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,177 |
-| 5 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | - | 1,929 |
-| 6 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,776 |
-| 7 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,644 |
-| 8 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | TypeScript | 1,594 |
-| 9 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | JavaScript | 1,405 |
-| 10 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,341 |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 4,068 |
+| 2 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | 2,467 |
+| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | 2,197 |
+| 4 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | - | 2,196 |
+| 5 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | 1,875 |
+| 6 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | JavaScript | 1,699 |
+| 7 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | 1,661 |
+| 8 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,440 |
+| 9 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | Kotlin | 1,312 |
+| 10 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | TypeScript | 1,147 |
 
-[Full report](data/2026/11/2026-11-16.md)
+[Full report](data/2026/11/2026-11-17.md)
