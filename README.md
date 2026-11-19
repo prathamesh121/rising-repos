@@ -15,15 +15,15 @@ node scripts/update.mjs
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 5,018 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 4,932 |
-| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 4,560 |
-| 4 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | JavaScript | 2,492 |
-| 5 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | Python | 2,487 |
-| 6 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,437 |
-| 7 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | TypeScript | 1,785 |
-| 8 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 1,719 |
-| 9 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,654 |
-| 10 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | JavaScript | 1,593 |
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 5,127 |
+| 2 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 5,022 |
+| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 4,648 |
+| 4 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | Python | 2,567 |
+| 5 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | JavaScript | 2,500 |
+| 6 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,445 |
+| 7 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | TypeScript | 1,788 |
+| 8 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 1,739 |
+| 9 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,655 |
+| 10 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | JavaScript | 1,596 |
 
 [Full report](data/2026/11/2026-11-19.md)
