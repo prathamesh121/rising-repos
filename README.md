@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-19)
+## Today (2026-11-21)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 5,127 |
-| 2 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | 5,022 |
-| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 4,648 |
-| 4 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | Python | 2,567 |
-| 5 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | JavaScript | 2,500 |
-| 6 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,445 |
-| 7 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | TypeScript | 1,788 |
-| 8 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 1,739 |
-| 9 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,655 |
-| 10 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | JavaScript | 1,596 |
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 7,071 |
+| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 5,611 |
+| 3 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,565 |
+| 4 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 2,170 |
+| 5 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 1,931 |
+| 6 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | JavaScript | 1,762 |
+| 7 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,717 |
+| 8 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | Python | 1,612 |
+| 9 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 1,546 |
+| 10 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | 1,421 |
 
-[Full report](data/2026/11/2026-11-19.md)
+[Full report](data/2026/11/2026-11-21.md)
