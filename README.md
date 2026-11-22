@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-21)
+## Today (2026-11-22)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 7,359 |
-| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 5,788 |
-| 3 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | 3,974 |
-| 4 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,593 |
-| 5 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 2,282 |
-| 6 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 2,213 |
-| 7 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | JavaScript | 1,783 |
-| 8 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | 1,726 |
-| 9 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 1,724 |
-| 10 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | Python | 1,653 |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | 10,145 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 7,738 |
+| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 6,000 |
+| 4 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 2,739 |
+| 5 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,660 |
+| 6 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 2,303 |
+| 7 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 1,964 |
+| 8 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | 1,848 |
+| 9 | [joshpuckett/allo](https://github.com/joshpuckett/allo) | Python | 1,418 |
+| 10 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | 1,208 |
 
-[Full report](data/2026/11/2026-11-21.md)
+[Full report](data/2026/11/2026-11-22.md)
