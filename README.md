@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-22)
+## Today (2026-11-23)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | 10,145 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 7,738 |
-| 3 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | 6,000 |
-| 4 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 2,739 |
-| 5 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | 2,660 |
-| 6 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Python | 2,303 |
-| 7 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 1,964 |
-| 8 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | 1,848 |
-| 9 | [joshpuckett/allo](https://github.com/joshpuckett/allo) | Python | 1,418 |
-| 10 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | 1,208 |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | 22,199 |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 8,557 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 2,886 |
+| 4 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 2,763 |
+| 5 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 2,263 |
+| 6 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | 2,075 |
+| 7 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | 1,533 |
+| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | 1,412 |
+| 9 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Rust | 1,335 |
+| 10 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | Python | 1,283 |
 
-[Full report](data/2026/11/2026-11-22.md)
+[Full report](data/2026/11/2026-11-23.md)
