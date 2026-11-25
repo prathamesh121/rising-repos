@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-23)
+## Today (2026-11-25)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | 22,199 |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | 8,557 |
-| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 2,886 |
-| 4 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | - | 2,763 |
-| 5 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 2,263 |
-| 6 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | 2,075 |
-| 7 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | 1,533 |
-| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | 1,412 |
-| 9 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Rust | 1,335 |
-| 10 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | Python | 1,283 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 11,387 |
+| 2 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Rust | 7,856 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 3,618 |
+| 4 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | Objective-C++ | 3,391 |
+| 5 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 2,913 |
+| 6 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 2,487 |
+| 7 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 1,979 |
+| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | 1,907 |
+| 9 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | 1,896 |
+| 10 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | 1,823 |
 
-[Full report](data/2026/11/2026-11-23.md)
+[Full report](data/2026/11/2026-11-25.md)
