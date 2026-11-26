@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-25)
+## Today (2026-11-26)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 11,387 |
-| 2 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Rust | 7,856 |
-| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 3,618 |
-| 4 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | Objective-C++ | 3,391 |
-| 5 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 2,913 |
-| 6 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 2,487 |
-| 7 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 1,979 |
-| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | 1,907 |
-| 9 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | 1,896 |
-| 10 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | 1,823 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 12,624 |
+| 2 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Rust | 8,321 |
+| 3 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 4,159 |
+| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 3,970 |
+| 5 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | C | 3,949 |
+| 6 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 3,070 |
+| 7 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | 2,628 |
+| 8 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | 2,335 |
+| 9 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | 1,954 |
+| 10 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | 1,890 |
 
-[Full report](data/2026/11/2026-11-25.md)
+[Full report](data/2026/11/2026-11-26.md)
