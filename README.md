@@ -15,15 +15,15 @@ node scripts/update.mjs
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 14,009 |
-| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 7,064 |
-| 3 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Rust | 5,495 |
-| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 4,604 |
-| 5 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 3,377 |
-| 6 | [ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy) | Python | 3,133 |
-| 7 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | 2,737 |
-| 8 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | 2,555 |
-| 9 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Swift | 2,255 |
-| 10 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | 2,006 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 14,108 |
+| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 7,205 |
+| 3 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Rust | 6,318 |
+| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 4,663 |
+| 5 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 3,380 |
+| 6 | [ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy) | Python | 3,209 |
+| 7 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | 2,879 |
+| 8 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | 2,758 |
+| 9 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Swift | 2,516 |
+| 10 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | 2,014 |
 
 [Full report](data/2026/11/2026-11-28.md)
