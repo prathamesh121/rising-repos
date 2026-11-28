@@ -11,19 +11,19 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Today (2026-11-27)
+## Today (2026-11-28)
 
 | # | Repo | Language | Stars |
 |---|---|---|---|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 13,754 |
-| 2 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Rust | 8,712 |
-| 3 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 6,596 |
-| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 4,430 |
-| 5 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | C | 4,351 |
-| 6 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 3,347 |
-| 7 | [ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy) | Python | 2,617 |
-| 8 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Rust | 2,167 |
-| 9 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | 2,122 |
-| 10 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | 2,056 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | 13,809 |
+| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | JavaScript | 6,738 |
+| 3 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | 4,464 |
+| 4 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | 3,358 |
+| 5 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Rust | 3,227 |
+| 6 | [ProjectLeonida/mandy](https://github.com/ProjectLeonida/mandy) | Python | 2,798 |
+| 7 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | 2,240 |
+| 8 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | 2,209 |
+| 9 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | 1,992 |
+| 10 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | 1,848 |
 
-[Full report](data/2026/11/2026-11-27.md)
+[Full report](data/2026/11/2026-11-28.md)
